@@ -15,10 +15,6 @@ One-page website for Lutz & Lace, a figure-skating apparel brand. The site copy 
 
 Vercel's free Hobby plan is for personal, non-commercial projects. A real business site, or work someone is paid for, needs the Pro plan or another host.
 
-## Before publishing
-
-In `public/index.html`, replace the contact placeholders `[EL. PAŠTAS]`, `[TELEFONAS]` and `[ADRESAS]`. Also put the real address into the `mailto:` link on the "Parašykite mums" button.
-
 ## Project layout
 
 ```

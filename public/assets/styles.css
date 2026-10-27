@@ -107,14 +107,11 @@ img, svg { max-width: 100%; }
 .wordmark { display: inline-flex; align-items: center; min-height: 44px; font-family: var(--font-display); font-size: 1.625rem; font-weight: 600; letter-spacing: -0.01em; color: var(--ink); text-decoration: none; }
 .nav { display: flex; flex-wrap: wrap; align-items: center; gap: 4px 6px; }
 .nav a { display: inline-flex; align-items: center; min-height: 44px; padding: 0 10px; font-size: 0.9375rem; font-weight: 500; text-decoration: none; }
-.nav a.nav-cta { padding: 0 20px; margin-left: 8px; border: 1.5px solid var(--accent); border-radius: 999px; color: var(--accent); font-weight: 600; }
 
 /* Buttons */
 .btn { display: inline-flex; align-items: center; justify-content: center; min-height: 52px; padding: 0 28px; border-radius: 999px; font-size: 1rem; font-weight: 600; text-decoration: none; }
 .btn-primary { background: var(--accent); color: var(--on-accent); }
 .btn-primary:hover { color: var(--on-accent); filter: brightness(1.08); }
-.btn-secondary { border: 1.5px solid var(--ink); color: var(--ink); }
-.btn-secondary:hover { border-color: var(--accent); color: var(--accent); }
 
 /* Hero */
 .hero { padding-block: 32px 104px; }
@@ -190,15 +187,6 @@ img, svg { max-width: 100%; }
 .closing { padding-top: 20px; border-top: 1px solid var(--rink-rule); font-family: var(--font-display); font-size: 1.375rem; line-height: 1.35; color: var(--rink-head); text-wrap: pretty; }
 
 /* Contact */
-.contact { display: flex; flex-wrap: wrap; align-items: flex-end; gap: 48px 80px; }
-.contact-text { flex: 999 1 520px; min-width: 0; display: flex; flex-direction: column; align-items: flex-start; gap: 24px; }
-.contact-text .title { max-width: 14ch; }
-.contact-text .intro { max-width: 34rem; }
-.contact-list { flex: 1 1 320px; display: flex; flex-direction: column; }
-.contact-row { display: flex; flex-wrap: wrap; justify-content: space-between; gap: 4px 16px; padding: 16px 0; border-top: 1px solid var(--rule); }
-.contact-row:last-child { border-bottom: 1px solid var(--rule); }
-.contact-row dt { font-weight: 600; color: var(--ink); }
-.contact-row dd { color: var(--text); }
 
 /* Footer */
 .site-footer { border-top: 1px solid var(--rule); }

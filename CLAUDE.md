@@ -46,13 +46,12 @@ content/                   source spreadsheet + JSON export (not deployed)
 
 | Anchor id | Section | Source in the spreadsheet |
 |---|---|---|
-| — | Header: wordmark + nav (Apie mus, Paslaugos, Inovacijos, Duomenys, Susisiekite) | — |
-| — (hero) | H1, lead, 2 buttons, figure-eight SVG | Written for the site (see Content rules) |
+| — | Header: wordmark + nav (Apie mus, Paslaugos, Inovacijos, Duomenys) | — |
+| — (hero) | H1, lead, 1 button, figure-eight SVG | Written for the site (see Content rules) |
 | `apie` | Vizija / Misija / Strategija | Sheet1: `Vizija`, `Misija`, `Strategija` |
 | `paslaugos` | 3 services × 3 stages. Each stage has Skaitmenizacija / Centralizacija / Standartizacija text plus a score bar | Sheet1: `Paslauga`, `Subpaslauga`, `Skaitmenizacija`, `Centralizacija`, `Standartizacija`, `Skaitmenizavimas`, `Centralizavimas`, `Standartizavimas` |
 | `inovacijos` (`startup`, `deeptech`) | Two innovations as numbered steps, with large "5.0" / "6.0" marks | Sheet1: `Inovacija`, `Rinkodara` (stages "Spalvų ir dizaino pasirinkimas" and "Tinkamiausio kirpimo rekomendacija") |
 | `duomenys` | Per stage: required data, how AI would use it, source links | Sheet "DI analizė": `Reikalingi duomenys`, `Kaip DI panaudotų duomenis?`, `Duomenų šaltiniai` |
-| `kontaktai` | CTA + contact details | Placeholders, no data yet |
 
 The two innovation stages carry a "Inovacija: STARTUP / DEEPTECH" tag that links to `#startup` / `#deeptech`.
 
@@ -64,8 +63,7 @@ The two innovation stages carry a "Inovacija: STARTUP / DEEPTECH" tag that links
 - **Copy written for the site, which the owner should review:**
   - the hero headline "Kostiumas, kuris juda kartu su čiuožėju" and its lead;
   - the section intros;
-  - the innovation headlines "Kostiumas pagal programos muziką" and "Lekalai pagal kūną ir judesį";
-  - the contact headline, text and button.
+  - the innovation headlines "Kostiumas pagal programos muziką" and "Lekalai pagal kūną ir judesį".
 - **Scores** (45–95) are shown as percentages ("lygis"). The owner has not confirmed what they measure.
 - **Never invent facts:** no stats, testimonials, prices or client names. Missing facts stay as visible placeholders in brackets, e.g. `[TELEFONAS]`.
 - **Lithuanian typography:**
@@ -105,11 +103,10 @@ The two innovation stages carry a "Inovacija: STARTUP / DEEPTECH" tag that links
 
 ## Open tasks
 
-1. **Contact details:** replace `[EL. PAŠTAS]`, `[TELEFONAS]` and `[ADRESAS]`. Set the "Parašykite mums" button's `href` too; it is currently a bare `mailto:`.
-2. **Images:** there are none yet. The reference site used illustrations and an intro video. Only add images the owner supplies: costume photos or a logo. Use `<img>` with `width`/`height`, Lithuanian `alt` text and `loading="lazy"` below the fold.
-3. **Sharing preview:** add `og:image` (1200×630) and `og:url` once the domain is known.
-4. **Indexing:** the reference site uses `noindex, nofollow`. Ask the owner whether this site should be indexed, then add `<meta name="robots">` or `public/robots.txt`.
-5. **Optional polish:**
+1. **Images:** there are none yet. The reference site used illustrations and an intro video. Only add images the owner supplies: costume photos or a logo. Use `<img>` with `width`/`height`, Lithuanian `alt` text and `loading="lazy"` below the fold.
+2. **Sharing preview:** add `og:image` (1200×630) and `og:url` once the domain is known.
+3. **Indexing:** the reference site uses `noindex, nofollow`. Ask the owner whether this site should be indexed, then add `<meta name="robots">` or `public/robots.txt`.
+4. **Optional polish:**
    - render the Paslaugos and Duomenys sections from `content/content.json` to remove the repeated markup;
    - a compact mobile menu;
    - an `apple-touch-icon` PNG;
