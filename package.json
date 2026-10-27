@@ -1,0 +1,10 @@
+{
+  "name": "lutz-and-lace",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Lutz & Lace – one-page website in Lithuanian (static HTML/CSS/JS, no build step).",
+  "scripts": {
+    "dev": "npx --yes serve@14 public -l 3000",
+    "deploy": "npx --yes vercel --prod"
+  }
+}

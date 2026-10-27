@@ -1,0 +1,314 @@
+{
+  "_note": "Verbatim export of content/rinkodara_5_0_rusne.xlsx. The site copy in public/index.html has a few deliberate edits; see CLAUDE.md > Content rules.",
+  "company": {
+    "name": "Lutz & Lace",
+    "vision": "Elegantiška ir funkcionali čiuožimo apranga",
+    "mission": "Kokybiška apranga čiuožėjams",
+    "strategy": "Išskirtinis dizainas ir kokybė"
+  },
+  "stages": [
+    {
+      "service": "Gaminame aprangą",
+      "stage": "Medžiagų parinkimas",
+      "digitization": {
+        "text": "Skaitmeninis audinių katalogas su elastingumo, sudėties ir priežiūros parametrais.",
+        "score": 50
+      },
+      "centralization": {
+        "text": "Audinių, tiekėjų ir likučių informacija vienoje sistemoje.",
+        "score": 75
+      },
+      "standardization": {
+        "text": "Vienodi audinių vertinimo kriterijai: elastingumas, patvarumas, komfortas ir priežiūra.",
+        "score": 90
+      },
+      "innovation": null
+    },
+    {
+      "service": "Gaminame aprangą",
+      "stage": "Dizaino kūrimas",
+      "digitization": {
+        "text": "Skaitmeniniai eskizai, spalvų paletės ir 3D dizaino peržiūra.",
+        "score": 70
+      },
+      "centralization": {
+        "text": "Dizaino versijos ir kliento pastabos saugomos vienoje užsakymo kortelėje.",
+        "score": 85
+      },
+      "standardization": {
+        "text": "Vienodas dizaino derinimo ir patvirtinimo procesas.",
+        "score": 80
+      },
+      "innovation": null
+    },
+    {
+      "service": "Gaminame aprangą",
+      "stage": "Siuvimas",
+      "digitization": {
+        "text": "Skaitmeniniai lekalai ir elektroninės gamybos užduotys.",
+        "score": 45
+      },
+      "centralization": {
+        "text": "Siuvimo eiga, terminai ir medžiagų poreikis vienoje sistemoje.",
+        "score": 80
+      },
+      "standardization": {
+        "text": "Vienodos siūlių, matmenų ir galutinės kokybės patikros taisyklės.",
+        "score": 95
+      },
+      "innovation": null
+    },
+    {
+      "service": "Individualizuojame aprangą",
+      "stage": "Išmatavimų parinkimas",
+      "digitization": {
+        "text": "Internetinė matmenų anketa ir automatinis dydžių lentelės palyginimas.",
+        "score": 65
+      },
+      "centralization": {
+        "text": "Kliento išmatavimai susiejami su jo užsakymų istorija.",
+        "score": 85
+      },
+      "standardization": {
+        "text": "Vienoda matavimo instrukcija ir matmenų patikros tvarka.",
+        "score": 90
+      },
+      "innovation": null
+    },
+    {
+      "service": "Individualizuojame aprangą",
+      "stage": "Spalvų ir dizaino pasirinkimas",
+      "digitization": {
+        "text": "Interaktyvus spalvų, raštų ir dekoracijų pasirinkimas internetu.",
+        "score": 70
+      },
+      "centralization": {
+        "text": "Visi pasirinkimai ir pakeitimai kaupiami kliento užsakyme.",
+        "score": 90
+      },
+      "standardization": {
+        "text": "Aiškūs dizaino pakeitimų ir galutinio patvirtinimo etapai.",
+        "score": 85
+      },
+      "innovation": {
+        "type": "STARTUP",
+        "marketing": "5.0",
+        "text": "Internetinis kostiumų kūrimo įrankis, kuriame čiuožėjas įkelia savo programos muziką ir nurodo kūno matmenis. Dirbtinis intelektas išanalizuoja muzikos nuotaiką, tempą ir temą bei pasiūlo kelis individualius kostiumo dizaino variantus su skirtingomis spalvomis, raštais ir dekoracijomis. Klientas gali juos peržiūrėti 3D modelyje, pritaikytame pagal jo matmenis. Sistema taip pat automatiškai patikrina, ar pasirinktas dizainas atitinka ISU aprangos taisykles. Klientui patvirtinus galutinį variantą, dizainas perduodamas į gamybą, taip sutrumpinant užsakymo ir derinimo procesą."
+      }
+    },
+    {
+      "service": "Individualizuojame aprangą",
+      "stage": "AI individualaus dizaino kūrimas",
+      "digitization": {
+        "text": "Klientas internetinėje platformoje įveda savo kūno išmatavimus, pasirenka spalvas, stilių ir biudžetą. AI automatiškai sugeneruoja individualaus čiuožimo kostiumo dizainą ir pateikia 3D vizualizaciją.",
+        "score": 90
+      },
+      "centralization": {
+        "text": "Kliento išmatavimai, dizaino pasirinkimai, AI sugeneruoti modeliai ir užsakymų istorija saugomi vienoje sistemoje, prieinamoje dizaineriams ir siuvėjams.",
+        "score": 90
+      },
+      "standardization": {
+        "text": "Visi kostiumai kuriami pagal vienodą procesą: išmatavimų pateikimas, dizaino generavimas, kliento patvirtinimas, medžiagų parinkimas ir gamyba. Taikomi vienodi dydžių bei kokybės reikalavimai.",
+        "score": 80
+      },
+      "innovation": null
+    },
+    {
+      "service": "Analizuojame čiuožėjo judesius",
+      "stage": "Kostiumo tempimo analizė",
+      "digitization": {
+        "text": "Skaitmeniniai judesių ir audinio deformacijos matavimai; prototipe galimi jutikliai.",
+        "score": 65
+      },
+      "centralization": {
+        "text": "Judesių ir audinio bandymų rezultatai siejami su kostiumo modeliu.",
+        "score": 75
+      },
+      "standardization": {
+        "text": "Vienoda audinio tempimo ir judesio bandymo metodika.",
+        "score": 80
+      },
+      "innovation": null
+    },
+    {
+      "service": "Analizuojame čiuožėjo judesius",
+      "stage": "Judėjimo laisvės vertinimas",
+      "digitization": {
+        "text": "Vaizdo analizė ir sąnarių judesio amplitudės palyginimas.",
+        "score": 70
+      },
+      "centralization": {
+        "text": "Bandymų rezultatai susiejami su kliento matmenimis ir kostiumu.",
+        "score": 80
+      },
+      "standardization": {
+        "text": "Vienodi judesių testai ir komforto vertinimo kriterijai.",
+        "score": 85
+      },
+      "innovation": null
+    },
+    {
+      "service": "Analizuojame čiuožėjo judesius",
+      "stage": "Tinkamiausio kirpimo rekomendacija",
+      "digitization": {
+        "text": "AI analizuoja išmatavimus, judesių testus ir audinių savybes.",
+        "score": 85
+      },
+      "centralization": {
+        "text": "Rekomendacijos ir lekalų versijos laikomos vienoje projektavimo sistemoje.",
+        "score": 90
+      },
+      "standardization": {
+        "text": "Vienoda rekomendacijų tikrinimo ir siuvėjo patvirtinimo tvarka.",
+        "score": 80
+      },
+      "innovation": {
+        "type": "DEEPTECH",
+        "marketing": "6.0",
+        "text": "Biomechanika pagrįstas dirbtinio intelekto modelis, kuris analizuoja čiuožėjo kūno matmenis, sąnarių judesių amplitudę ir audinių elastingumo savybes, kad automatiškai sukurtų individualius kostiumo lekalus. Kuriant technologiją atliekami bandymai su čiuožėjais, kurių metu matuojama ir lyginama judesių laisvė dėvint kostiumą ir be jo. Surinkti duomenys naudojami modeliui mokyti ir jo tikslumui patikrinti. Taip siekiama sukurti kostiumo kirpimą, kuris nevaržytų sudėtingų čiuožimo judesių, užtikrintų patogumą ir išlaikytų estetišką išvaizdą. Technologijos naudą būtų galima pagrįsti konkrečiais matavimų rezultatais, o ne vien siuvėjo patirtimi."
+      }
+    }
+  ],
+  "aiAnalysis": [
+    {
+      "service": "Gaminame aprangą",
+      "stage": "Medžiagų parinkimas",
+      "requiredData": "Audinių sudėtis, masė, plotis ir elastingumo savybės. Konkretus pavyzdys: „Carvico Vita“ – 78 % perdirbto poliamido, 22 % elastano, 190 g/m², plotis 150 cm; audinys tamprus dviem kryptimis ir išlaiko formą.",
+      "sources": [
+        {
+          "label": "„Carvico Vita“ gamintojo techniniai duomenys",
+          "url": "https://www.carvico.com/en/fabrics/vita/"
+        },
+        {
+          "label": "„Jalie TESSA“ rekomenduojami audiniai",
+          "url": "https://jalie.com/products/tessa-long-sleeve-dress-and-leotard-sewing-pattern"
+        }
+      ],
+      "howAIWouldUseIt": "DI galėtų naudoti gamintojo parametrus kaip žinių bazę ir palyginti audinius pagal kostiumo reikalavimus. „Jalie“ pavyzdyje nurodyti abiem kryptimis tamprūs trikotažai padėtų atrinkti tinkamesnes medžiagas. Vien elastano procentas neparodo audinio tempimo procento."
+    },
+    {
+      "service": "Gaminame aprangą",
+      "stage": "Dizaino kūrimas",
+      "requiredData": "„Fashionpedia“: 48 825 drabužių vaizdai su drabužių dalių žymėjimais ir 294 savybių tipais. Papildomai – „Jalie“ čiuožimo suknelių modelių nuotraukos ir techniniai piešiniai, pavyzdžiui, TESSA modelis su ilgomis rankovėmis ir apskritimo formos sijonu.",
+      "sources": [
+        {
+          "label": "„Fashionpedia“ vaizdų ir anotacijų rinkinys",
+          "url": "https://fashionpedia.github.io/home/"
+        },
+        {
+          "label": "Čiuožimo aprangos modelio pavyzdys",
+          "url": "https://jalie.com/products/tessa-long-sleeve-dress-and-leotard-sewing-pattern"
+        }
+      ],
+      "howAIWouldUseIt": "DI galėtų mokytis atpažinti rankoves, iškirptes, sijonus ir siluetus, o šias žinias pritaikyti kurdamas čiuožimo kostiumo eskizus. Čiuožimo aprangos pavyzdžiai padėtų konkretinti dizaino pasiūlymus. Tai siūlomas duomenų pritaikymas."
+    },
+    {
+      "service": "Gaminame aprangą",
+      "stage": "Siuvimas",
+      "requiredData": "„GarmentCodeData“ – apie 115 000 sintetinių drabužių pavyzdžių su 2D lekalais, 3D drabužių modeliais ir kūno matmenimis. „Jalie TESSA“ instrukcijose pateikiama siuvimo eiga ir 6 mm siūlių užlaidos.",
+      "sources": [
+        {
+          "label": "„GarmentCodeData“ mokymo duomenys",
+          "url": "https://igl.ethz.ch/projects/GarmentCodeData/"
+        },
+        {
+          "label": "„Jalie TESSA“ – skiltis „View instructions“",
+          "url": "https://jalie.com/products/tessa-long-sleeve-dress-and-leotard-sewing-pattern"
+        }
+      ],
+      "howAIWouldUseIt": "Iš lekalų ir 3D modelių DI galėtų mokytis ryšio tarp iškarpų formos ir galutinio drabužio. Siuvimo instrukcijas galėtų naudoti kaip žinių šaltinį aiškindamas surinkimo veiksmus. Šie duomenys nesuteikia informacijos apie konkrečios įmonės siuvimo trukmę."
+    },
+    {
+      "service": "Individualizuojame aprangą",
+      "stage": "Išmatavimų parinkimas",
+      "requiredData": "„Jalie“ dydžių parinkimo duomenys: krūtinės, liemens, klubų ir liemens apjuosimo per petį matmenų palyginimas. TESSA modelis apima 24 dydžius; jo puslapyje pateikta dydžių ir audinio poreikio lentelė.",
+      "sources": [
+        {
+          "label": "„Jalie“ dydžio parinkimo vadovas",
+          "url": "https://jalie.com/blogs/jalie-sewing-tutorials/how-to-pick-the-right-leotard-dress-size"
+        },
+        {
+          "label": "TESSA „Sizing chart / Yardage info“",
+          "url": "https://jalie.com/products/tessa-long-sleeve-dress-and-leotard-sewing-pattern"
+        }
+      ],
+      "howAIWouldUseIt": "DI galėtų naudoti dydžių lenteles ir matmenų derinimo pavyzdžius, kad paaiškintų, kurį dydį rinktis ir kurias dalis ilginti ar trumpinti. Parinkimas būtų grindžiamas kūno matmenimis, o ne vien amžiumi; tai tinka ir tavo auditorijai iki 25 metų."
+    },
+    {
+      "service": "Individualizuojame aprangą",
+      "stage": "Spalvų ir dizaino pasirinkimas",
+      "requiredData": "„Fashionpedia“ drabužių nuotraukos, dalių kontūrai ir savybių anotacijos. Iš pačių nuotraukų galima išskirti vyraujančias spalvas ir jų derinius, o pagal anotacijas atskirti drabužio dalis bei dizaino elementus.",
+      "sources": [
+        {
+          "label": "„Fashionpedia“ – vaizdai ir savybių anotacijos",
+          "url": "https://fashionpedia.github.io/home/"
+        }
+      ],
+      "howAIWouldUseIt": "DI galėtų mokytis atskirti drabužio dalis ir siūlyti skirtingus jų spalvų bei raštų derinius. Spalvų reikšmes reikėtų apskaičiuoti iš vaizdų – jos čia nelaikomos atskira pateikta spalvų lentele. Pasiūlymai papildytų tavo STARTUP kostiumo kūrimo įrankį."
+    },
+    {
+      "service": "Individualizuojame aprangą",
+      "stage": "AI individualaus dizaino kūrimas",
+      "requiredData": "„GarmentCodeData“ – kūno matmenų, dizaino parametrų, lekalų ir 3D drabužio formos pavyzdžiai. „Fashionpedia“ – drabužių vaizdai su jų dalių ir savybių žymėjimais.",
+      "sources": [
+        {
+          "label": "„GarmentCodeData“",
+          "url": "https://igl.ethz.ch/projects/GarmentCodeData/"
+        },
+        {
+          "label": "„Fashionpedia“",
+          "url": "https://fashionpedia.github.io/home/"
+        }
+      ],
+      "howAIWouldUseIt": "DI galėtų mokytis sieti kūno matmenis su drabužio geometrija, o vaizdų duomenis panaudoti skirtingiems dizaino elementams atpažinti. Tai pagrindas individualaus kostiumo modelio pasiūlymui. Šie rinkiniai savaime nemoko susieti muzikos nuotaikos su dizainu."
+    },
+    {
+      "service": "Analizuojame čiuožėjo judesius",
+      "stage": "Kostiumo tempimo analizė",
+      "requiredData": "„CLOTH3D“ – sintetinės judančių žmonių su drabužiais 3D sekos, kuriose skiriasi audinys, drabužio dydis, aptemptumas ir kūno poza. „Carvico Vita“ techniniai duomenys papildytų žinias apie realaus audinio sudėtį bei savybes.",
+      "sources": [
+        {
+          "label": "„CLOTH3D“ mokymo duomenų projektas",
+          "url": "https://hbertiche.github.io/CLOTH3D/"
+        },
+        {
+          "label": "Realaus audinio specifikacija",
+          "url": "https://www.carvico.com/en/fabrics/vita/"
+        }
+      ],
+      "howAIWouldUseIt": "DI galėtų mokytis prognozuoti, kaip drabužio forma kinta judant ir kur atsiranda didesnė deformacija. Taikant čiuožimo kostiumui tai padėtų preliminariai aptikti galimai per daug įtemptas vietas. Sintetinė deformacija nėra konkretaus kostiumo išmatuota tempimo jėga."
+    },
+    {
+      "service": "Analizuojame čiuožėjo judesius",
+      "stage": "Judėjimo laisvės vertinimas",
+      "requiredData": "„FineFS“ – 1 167 čiuožimo programų pavyzdžiai su vaizdo įrašais, 2D/3D skeleto sekomis ir techninių veiksmų pradžios bei pabaigos žymomis. 3D skeleto kadre pateikiama 17 sąnarių taškų.",
+      "sources": [
+        {
+          "label": "„FineFS“ čiuožimo judesių duomenų rinkinys",
+          "url": "https://github.com/yanliji/FineFS-dataset"
+        }
+      ],
+      "howAIWouldUseIt": "DI galėtų mokytis atpažinti čiuožimo veiksmus ir kūno padėčių sekas. Tai leistų parinkti kostiumui svarbias judėjimo pozas bei analizuoti sąnarių kampų kaitą. Rinkinys neturi žymų, ar kostiumas varžo judesius, todėl vien jo nepakanka tokiai išvadai."
+    },
+    {
+      "service": "Analizuojame čiuožėjo judesius",
+      "stage": "Tinkamiausio kirpimo rekomendacija",
+      "requiredData": "„GarmentCodeData“ pateikiami kūno matmenų ir atitinkamų lekalų pavyzdžiai; „CLOTH3D“ – drabužio kitimas judesio metu; „FineFS“ – čiuožimo veiksmų ir skeleto sekos.",
+      "sources": [
+        {
+          "label": "Lekalai ir kūno matmenys",
+          "url": "https://igl.ethz.ch/projects/GarmentCodeData/"
+        },
+        {
+          "label": "Drabužio dinamika",
+          "url": "https://hbertiche.github.io/CLOTH3D/"
+        },
+        {
+          "label": "Čiuožimo judesiai",
+          "url": "https://github.com/yanliji/FineFS-dataset"
+        }
+      ],
+      "howAIWouldUseIt": "DEEPTECH modelis galėtų mokytis lekalų pritaikymo principų, drabužio deformacijos ir čiuožimo judesių atpažinimo. Šias žinias būtų galima jungti siūlant kirpimo variantus judėjimui. Tai atskiri rinkiniai, o ne paruoštos vieno čiuožėjo, jo kostiumo ir judesio duomenų poros."
+    }
+  ]
+}
